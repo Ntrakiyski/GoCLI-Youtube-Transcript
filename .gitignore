@@ -1,0 +1,9 @@
+# Binaries
+*gocli-youtube-transcript
+
+# Temporary files
+*.vtt
+/tmp/yt-*
+
+# Go modules
+go.sum
